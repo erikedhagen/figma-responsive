@@ -2,7 +2,7 @@
   "name": "figma-responsive",
   "id": "1204154128083146375",
   "api": "1.0.0",
-  "main": "code.js",
+  "main": "dist/app.js",
   "editorType": [
     "figma"
   ],
